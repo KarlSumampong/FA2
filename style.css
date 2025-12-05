@@ -4,12 +4,13 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: #175E1E;
 }
 
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background-color: #f5f5f5;
+  background-color: #175E1E;
 }
 
 .cta {
